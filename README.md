@@ -67,6 +67,9 @@ A Python program that collects food items into a list using a **FOR loop**, then
 ![Program Output](output.png)
 
 ---
+## Textfile Output
+![Program Output](txt_output.png)
+
 
 ## 🛠️ Technologies Used
 
@@ -107,7 +110,9 @@ A Python program that collects food items into a list using a **FOR loop**, then
 ```
 food-list/
 ├── food_list.py
+├── food-list.txt
 ├── output.png
+├── txt_output.png
 ├── README.md
 ├── LICENSE
 └── .gitignore
